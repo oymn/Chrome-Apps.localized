@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13F1077</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.Profile-1-lkdpfjbplbappibihpepdcpikflmlnfb</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Profile 1 lkdpfjbplbappibihpepdcpikflmlnfb</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5.5</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2564.97</string>
+	<key>CrAppModeProfileDir</key>
+	<string>Profile 1</string>
+	<key>CrAppModeProfileName</key>
+	<string>Person 1</string>
+	<key>CrAppModeShortcutID</key>
+	<string>lkdpfjbplbappibihpepdcpikflmlnfb</string>
+	<key>CrAppModeShortcutName</key>
+	<string>Payable form: add Paypal to your Google Form</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>http://www.crazychro.me/gform/</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/administrator/Library/Application Support/Google/Chrome/Profile 1/Web Applications/_crx_lkdpfjbplbappibihpepdcpikflmlnfb</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>48.0.2564.97</string>
+	<key>DTSDKBuild</key>
+	<string>14A382</string>
+	<key>DTSDKName</key>
+	<string>macosx10.10</string>
+	<key>DTXcode</key>
+	<string>0511</string>
+	<key>DTXcodeBuild</key>
+	<string>5B1008</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6.0</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+</dict>
+</plist>
