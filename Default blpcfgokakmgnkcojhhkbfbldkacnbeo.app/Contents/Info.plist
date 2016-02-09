@@ -23,11 +23,11 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2526.106</string>
+	<string>2564.103</string>
 	<key>CrAppModeProfileDir</key>
 	<string>Default</string>
 	<key>CrAppModeProfileName</key>
-	<string>Person 1</string>
+	<string>some</string>
 	<key>CrAppModeShortcutID</key>
 	<string>blpcfgokakmgnkcojhhkbfbldkacnbeo</string>
 	<key>CrAppModeShortcutName</key>
@@ -39,7 +39,7 @@
 	<key>CrBundleIdentifier</key>
 	<string>com.google.Chrome</string>
 	<key>CrBundleVersion</key>
-	<string>47.0.2526.106</string>
+	<string>48.0.2564.103</string>
 	<key>DTSDKBuild</key>
 	<string>14A382</string>
 	<key>DTSDKName</key>

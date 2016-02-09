@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Gmail</string>
+	<string>Gmail (some)</string>
 	<key>CFBundleName</key>
 	<string>Gmail</string>
 </dict>
